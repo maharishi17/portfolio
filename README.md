@@ -1,4 +1,4 @@
-# Vasanthkumar Portfolio (using HTML and CSS only)
+# Maharishi (using HTML and CSS only)
 
 ## Table of Contents
 - [Project Title](#project-title)
